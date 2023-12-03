@@ -51,8 +51,7 @@ This image is a vital compass for used car dealers, providing a quick guide to t
 ![coeffs_direction](https://github.com/Hoomaaan/What-Drives-Prices-of-a-Car/assets/33916130/bad1ef46-8153-480b-9831-6e73d9e89377)
 
 
-My findings and more details of this analysis are in [Prompt_II.ipynb]([./abc/test.md](https://github.com/Hoomaaan/What-Drives-Prices-of-a-Car/blob/main/prompt_II.ipynb)https://github.com/Hoomaaan/What-Drives-Prices-of-a-Car/blob/main/prompt_II.ipynb)
-
+My findings and more details of this analysis are in [Prompt_II.ipynb](https://github.com/Hoomaaan/What-Drives-Prices-of-a-Car/blob/main/prompt_II.ipynb).
 ### Future Steps
 Now that we've uncovered the key factors driving used car prices, the next step is to empower dealers with a powerful tool. We can introduce user-friendly software—a piece of code that harnesses the insights from our analysis. This tool internally utilizes the trained Lasso model, which has proven to be the most effective in predicting car values accurately.
 
